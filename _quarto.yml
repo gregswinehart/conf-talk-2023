@@ -1,0 +1,12 @@
+title: "Quickly get your Quarto HTML theme in order"
+author: "Greg Swinehart / Posit, PBC"
+format: 
+  revealjs:
+    theme: theme.scss
+    menu: false
+
+
+
+title-slide-attributes:
+    data-background-color: "#ffffff"
+    data-color: "#404041"
