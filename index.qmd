@@ -92,21 +92,14 @@ $sass-variables-here
 
 
 
-# {background-color="#17212B" background-image="images/bg-dark.png" background-size="contain" color="white" style="margin-top:-100px;" .smaller}
-:::: {.columns }
+# Thank you! {background-color="#17212B" background-image="images/bg-dark.png" background-size="contain" color="white" style="margin-top:-100px;" .smaller}
 
-::: {.column width="60%"}
-<h1>Thank you!</h1>
-<h4 style="opacity: 0.5; font-weight: 400;">
-greg@posit.co
-</h4>
+<div style="margin-top:80px;"></div>
+
+::: {.fragment}
+<h3>greg@posit.co</h3>
 :::
-::: {.column width="40%"}
-<div style="padding-top:100px;"></div>
-- [Presentation repo](google.com)
-- [Quarto variables](google.com)
-- [bslib's boostrap variables](google.com)
-- [revealjs variables](google.com)
-
-::: 
-::::
+::: {.fragment}
+<div style="margin-top:30px;"></div>
+<h3>[http://bit.ly/quarto-themes](http://bit.ly/quarto-themes)</h3>
+:::
