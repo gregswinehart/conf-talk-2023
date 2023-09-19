@@ -1,6 +1,6 @@
 # Quickly get your Quarto HTML theme in order
 
-A 5 minute presentation to introduce Quarto's HTML theme-ability, inteded for large companies with strict brand guidelines or a data scientist who wants to have some fun with design.
+A 5 minute presentation to introduce Quarto's HTML theme-ability, intended for large companies with strict brand guidelines or a data scientist who wants to have some fun with design.
 
 ## Get started with HTML themes
 
