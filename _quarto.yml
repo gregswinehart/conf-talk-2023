@@ -10,3 +10,12 @@ format:
 title-slide-attributes:
     data-background-color: "#ffffff"
     data-color: "#404041"
+
+
+project:
+  resources:
+    # Explicitly call out the images folder to include background images in _build.
+    - "*.mp4"
+    - "*.png"
+    - "*.jpg"
+  output-dir: _build
